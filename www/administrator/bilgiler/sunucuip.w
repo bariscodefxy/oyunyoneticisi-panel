@@ -1,0 +1,1 @@
+<script language="javascript" src="http://in.sitekodlari.com/ipadresi.js"></script>
